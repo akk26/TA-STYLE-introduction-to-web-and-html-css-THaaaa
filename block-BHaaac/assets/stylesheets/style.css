@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+    background-color: blue;
+}
+
+.heading{
+    font-size: 12px;
+}
+
+#head{
+  font-size: 24px;
+}
+body{background-color: blueviolet;}
+p{color: brown;
+font-size: 20px;
+}
