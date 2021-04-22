@@ -1,0 +1,21 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.subheading{color:rgb(28, 201, 80) 
+          ;}
+
+body{color: white;
+background-color: rgb(34,57,106);
+}
+
+a{color: white;}
+p{line-height: 1.5;}
+
+.space{
+    line-height: 0;
+}
+.socialmedia{
+    color:rgb(246,35,77);
+    margin-left: 20px;
+
+}
