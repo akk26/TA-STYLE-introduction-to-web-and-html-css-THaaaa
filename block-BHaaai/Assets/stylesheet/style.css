@@ -1,0 +1,27 @@
+
+.section-head{color: rgb(49,187,102);
+}
+body{ color: white;
+background-color: rgb(34,57,106);
+
+}
+.link-add a{   
+color: white;
+}
+p{line-height: 1.5;
+ }
+h6{line-height: 0;
+  }
+.social-platform a{color:rgb(149,35,77);
+ margin-left: 20px;   
+
+}
+.social-platform{
+    text-align: center;
+    background-color: rgb(17,36,77);
+    padding: 20px;
+}
+.centring{
+    text-align: center;
+    padding-top: 20px;
+}
